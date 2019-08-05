@@ -8,7 +8,7 @@ import sys
 
 
 def help():
-		print ("tools version 1.0.0  ( author:dawn)")
+		print ("bash_tool version 1.0.0  ( author:dawn)")
 		print("usage: python3 main.py -h  [help]")
 		print("usage: python3 main.py -a  [add  a tool]")
 		print("usage: python3 main.py -l  [list of tools] | -r [remove] <number of tool>/ -i [install] <number of tool>/ -c [check] <number of tool>")
